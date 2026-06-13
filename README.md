@@ -1,2 +1,2 @@
-# jrn492-gear
-Checkout System for JRN 492
+# mpat-gear
+Checkout System for Media Photography and Technology Majors
